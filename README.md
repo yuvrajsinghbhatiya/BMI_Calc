@@ -1,2 +1,2 @@
-# BMI_Calc
-react BMI calculator
+# BMI Calcualtor by yuvraj
+
